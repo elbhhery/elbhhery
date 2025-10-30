@@ -13,6 +13,14 @@ I’m passionate about clean UI, performance optimization, and crafting smooth u
 
 ---
 
+## 📈 GitHub Stats
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=elbhhery&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbhhery&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=elbhhery&theme=tokyonight&border_radius=8)
+
+---
+
 ## 🧠 About Me
 - 🎯 Focused on Frontend excellence and learning advanced React patterns  
 - 🌱 Currently exploring **Next.js** & performance optimization  
