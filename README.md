@@ -10,17 +10,6 @@ I’m passionate about clean UI, performance optimization, and crafting smooth u
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,git,vscode" />
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-elbhhery&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-elbhhery&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ali-elbhhery&theme=tokyonight&border_radius=8" height="150" />
-</p>
 
 ---
 
