@@ -41,4 +41,4 @@ I’m passionate about clean UI, performance optimization, and crafting smooth u
 
 ---
 
-⭐️ *From [Ali Elbhhery](https://github.com/ali-elbhhery)*  
+⭐️ *From [Ali Elbhhery](https://github.com/elbhhery)*  
