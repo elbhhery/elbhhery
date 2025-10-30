@@ -17,7 +17,7 @@ I’m passionate about clean UI, performance optimization, and crafting smooth u
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=elbhhery&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elbhhery&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=elbhhery&theme=tokyonight&border_radius=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elbhhery&theme=tokyonight&hide_border=false)
 
 ---
 
