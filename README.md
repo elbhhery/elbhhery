@@ -7,8 +7,9 @@ I’m passionate about clean UI, performance optimization, and crafting smooth u
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,git,vscode,test" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,git,vscode,graphql,postman,materialui" />
 </p>
+
 
 
 ---
